@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4aba59f0a78294dd5a41b6255d4e9e24
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - viewerHander: {instanceID: 0}
+  - CylinderParent: {instanceID: 0}
+  - BaseCylinder: {fileID: 5227324411017983964, guid: 229a3963d383f4b2b808a899873ab696,
+      type: 3}
+  - BaseMaterial: {fileID: 2100000, guid: 5aea752e68d7943a5b2a7051c2a32ace, type: 2}
+  - gameHandler: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
